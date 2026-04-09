@@ -12,7 +12,7 @@ echo.
 if not exist gui_venv (
     color 0C
     echo [ОШИБКА] Окружение "gui_venv" не найдено.
-    echo Сначала запустите install_studio.bat
+    echo Сначала запустите install_gui.bat
     pause
     exit
 )

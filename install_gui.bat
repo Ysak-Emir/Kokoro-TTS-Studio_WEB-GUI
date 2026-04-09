@@ -49,7 +49,7 @@ if not exist gui_venv (
 :: 4. Активация и установка
 echo [2/2] Шаг 2: Установка зависимостей из requirements.txt...
 echo ------------------------------------------------------
-call studio_venv\Scripts\activate
+call gui_venv\Scripts\activate
 
 :: Проверяем, есть ли файл требований
 if not exist requirements.txt (
