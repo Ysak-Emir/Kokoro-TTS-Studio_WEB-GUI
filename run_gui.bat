@@ -1,11 +1,11 @@
 @echo off
 chcp 65001 >nul
-title Kokoro TTS Studio
+title Kokoro TTS 
 color 0E
 cls
 
 echo ==========================================================
-echo             ЗАПУСК KOKORO TTS STUDIO WEB GUI
+echo               ЗАПУСК KOKORO TTS WEB GUI
 echo ==========================================================
 echo.
 
