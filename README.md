@@ -19,7 +19,9 @@
 ## 🛠️ Быстрый старт (Windows)
 
 Для работы необходим:
+
 • Установленный [eSpeak-ng](https://github.com/espeak-ng/espeak-ng/releases).
+
 • Python версии 3.12.x https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe (для стабильной работы)
 
 1.  **Клонируйте репозиторий:**
