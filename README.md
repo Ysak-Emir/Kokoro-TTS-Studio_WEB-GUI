@@ -1,8 +1,8 @@
-# 🎙️ Kokoro TTS Studio WEB GUI (by Ysak-Emir)
+# 🎙️ Kokoro TTS WEB GUI (ENGLISH)
 
 Персональная GUI озвучка на базе нейросети **[Kokoro-82M](https://github.com/hexgrad/kokoro)**. 
 
-Позволяет генерировать высококачественную речь локально на вашей видеокарте. Идеально подходит для создания эдитов, озвучки игровых персонажей или контента для соцсетей.
+Позволяет генерировать высококачественную речь (на английском) локально на вашей видеокарте. Идеально подходит для создания эдитов, озвучки игровых персонажей или контента для соцсетей.
 
 ---
 
@@ -18,12 +18,14 @@
 
 ## 🛠️ Быстрый старт (Windows)
 
-Для работы необходим установленный [eSpeak-ng](https://github.com/espeak-ng/espeak-ng/releases).
+Для работы необходим:
+• Установленный [eSpeak-ng](https://github.com/espeak-ng/espeak-ng/releases).
+• Python версии 3.12.x https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe (для стабильной работы)
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/Ysak-Emir/Kokoro-TTS-Studio_WEB-GUI.git
-    cd Kokoro-TTS-Studio_WEB-GUI
+    git clone https://github.com/Ysak-Emir/Kokoro-TTS_WEB-GUI.git
+    cd Kokoro-TTS_WEB-GUI
     ```
 	**Или скачайте репозиторий (Download ZIP)**
 
