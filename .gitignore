@@ -1,0 +1,24 @@
+gui_venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+saved voices/
+preview.wav
+*.wav
+*.mp3
+
+models/
+*.bin
+*.pth
+*.onnx
+
+.vscode/
+.idea/
+.DS_Store
+
+*.log
+tmp/
