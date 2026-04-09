@@ -22,7 +22,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/Ysak-Emir/Kokoro-TTS-Studio_WEB-GUI](https://github.com/Ysak-Emir/Kokoro-TTS-Studio_WEB-GUI)
+    git clone https://github.com/Ysak-Emir/Kokoro-TTS-Studio_WEB-GUI.git
     cd Kokoro-TTS-Studio_WEB-GUI
     ```
 	**Или скачайте репозиторий (Download ZIP)**
